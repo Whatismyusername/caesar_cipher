@@ -1,0 +1,40 @@
+body{
+    margin:0;
+}
+
+input{
+    font-family:"Saira Extra Condensed";
+    font-size:3vw;
+}
+button{
+    font-family:"Saira Extra Condensed";
+    font-size:3vw;
+    background-color:white;
+}
+p{
+    font-family:"Saira Extra Condensed";
+    font-size:3vw;
+    margin:0;
+}
+
+.to_input{
+    width:40vw;
+}
+.to_number{
+    width:25vw;
+}
+img{
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    z-index:-1;
+    opacity:0.2;
+}
+h1{
+    font-family:"Saira Extra Condensed";
+    font-size:4vw;
+    text-align:center;
+    margin:1vh;
+}
